@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UVC_Client" GeneratedClassName="Settings_UVC_Viewer">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4478</Value>
+    </Setting>
+    <Setting Name="Setting_group_name2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Лаборатория №3</Value>
+    </Setting>
+    <Setting Name="Setting_group_name3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Лаборатория №2</Value>
+    </Setting>
+    <Setting Name="Setting_group_name4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Лаборатория №1</Value>
+    </Setting>
+    <Setting Name="Setting_group_name5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Аудитория 13</Value>
+    </Setting>
+    <Setting Name="Setting_group_name1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Админская</Value>
+    </Setting>
+    <Setting Name="Setting_gr1_ipbegin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128.128.14.101</Value>
+    </Setting>
+    <Setting Name="Setting_gr2_ipbegin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128.128.14.1</Value>
+    </Setting>
+    <Setting Name="Setting_gr3_ipbegin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="Setting_gr4_ipbegin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="Setting_gr5_ipbegin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="Setting_gr1_ipend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128.128.14.103</Value>
+    </Setting>
+    <Setting Name="Setting_gr2_ipend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128.128.14.10</Value>
+    </Setting>
+    <Setting Name="Setting_gr3_ipend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.255</Value>
+    </Setting>
+    <Setting Name="Setting_gr4_ipend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.255</Value>
+    </Setting>
+    <Setting Name="Setting_gr5_ipend" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255.255.255.255</Value>
+    </Setting>
+    <Setting Name="Setting_ip_list" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Setting_CheckBox_AutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Setting_CheckBox_AutoScan" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Setting_TimeAutoScan" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Setting_CheckBox_ScanAppStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

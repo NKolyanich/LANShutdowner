@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANShutdowner_Client", "LANShutdowner_Client\LANShutdowner_Client\LANShutdowner_Client.csproj", "{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3} = {A163DA23-8619-4AE4-A879-2FCD9215CAB3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANShutdowner_Service", "LANShutdowner_Server\LANShutdownerService\LANShutdowner_Service.csproj", "{09AF01C3-F036-4518-9FED-6C01CC3E1638}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A} = {6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANShutdownerServerViewer", "LANShutdowner_Server\LANShutdownerServerViewer\LANShutdownerServerViewer.csproj", "{A163DA23-8619-4AE4-A879-2FCD9215CAB3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638} = {09AF01C3-F036-4518-9FED-6C01CC3E1638}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANShutdownerServerDLL", "LANShutdowner_Server\LANShutdownerServerDLL\LANShutdownerServerDLL.csproj", "{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Debug|x86.ActiveCfg = Debug|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Debug|x86.Build.0 = Debug|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Release|Any CPU.ActiveCfg = Release|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Release|x86.ActiveCfg = Release|x86
+		{60F3EDE3-AFE3-43F8-9651-F9AAC8B04BFD}.Release|x86.Build.0 = Release|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Debug|x86.ActiveCfg = Debug|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Debug|x86.Build.0 = Debug|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Release|Any CPU.ActiveCfg = Release|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Release|Mixed Platforms.Build.0 = Release|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Release|x86.ActiveCfg = Release|x86
+		{09AF01C3-F036-4518-9FED-6C01CC3E1638}.Release|x86.Build.0 = Release|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Debug|x86.ActiveCfg = Debug|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Debug|x86.Build.0 = Debug|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Release|Any CPU.ActiveCfg = Release|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Release|x86.ActiveCfg = Release|x86
+		{A163DA23-8619-4AE4-A879-2FCD9215CAB3}.Release|x86.Build.0 = Release|x86
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6EB7A842-EACF-4BE9-B44B-9F84230EFC8A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2877C1D9-8799-45E6-8F35-B86D7A2C8FE5}
+	EndGlobalSection
+EndGlobal

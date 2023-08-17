@@ -1,0 +1,5 @@
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerDLL\bin\Debug\LANShutdownerServerDLL.dll
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerDLL\bin\Debug\LANShutdownerServerDLL.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerDLL\obj\Debug\LANShutdownerServerDLL.dll
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerDLL\obj\Debug\LANShutdownerServerDLL.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerDLL\obj\Debug\LANShutdownerServerDLL.csproj.CoreCompileInputs.cache

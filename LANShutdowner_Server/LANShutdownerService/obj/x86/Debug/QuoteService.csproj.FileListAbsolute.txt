@@ -1,0 +1,11 @@
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\bin\Debug\QuoteService.exe
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\bin\Debug\QuoteService.pdb
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\bin\Debug\QuoteServer.dll
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\obj\x86\Debug\QuoteService.csprojResolveAssemblyReference.cache
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\obj\x86\Debug\QuoteService.csproj.GenerateResource.Cache
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\obj\x86\Debug\QuoteService.exe
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\obj\x86\Debug\QuoteService.pdb
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\obj\x86\Debug\QuoteService.ProjectInstaller.resources
+C:\Users\Слимпер\Documents\Visual Studio 2010\Projects\QuoteService\QuoteService\obj\x86\Debug\QuoteService.QuoteService.resources
+c:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\QuoteService\obj\x86\Debug\QuoteService.exe
+c:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\QuoteService\obj\x86\Debug\QuoteService.pdb

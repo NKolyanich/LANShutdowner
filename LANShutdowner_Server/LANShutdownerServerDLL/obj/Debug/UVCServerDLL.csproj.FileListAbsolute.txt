@@ -1,0 +1,5 @@
+L:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\UVCServerDLL\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\UVCServerDLL\bin\Debug\UVCServerDLL.dll
+L:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\UVCServerDLL\bin\Debug\UVCServerDLL.pdb
+L:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\UVCServerDLL\obj\Debug\UVCServerDLL.dll
+L:\Users\Слимпер\Documents\Visual Studio 2010\Projects\UVC_Service\UVCServerDLL\obj\Debug\UVCServerDLL.pdb

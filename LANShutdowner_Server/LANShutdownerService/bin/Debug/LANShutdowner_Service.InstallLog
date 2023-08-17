@@ -1,0 +1,22 @@
+﻿Выполняется установка сборки 'D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.InstallLog
+   assemblypath = D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe
+Устанавливается служба LANShutdownerServer...
+Служба LANShutdownerServer успешно установлена.
+Создается исходный EventLog LANShutdownerServer в журнале Application...
+Выполняется фиксация сборки 'D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.InstallLog
+   assemblypath = D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe
+Выполняется удаление сборки 'D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.InstallLog
+   assemblypath = D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe
+Выполняется удаление источника EventLog LANShutdownerServer.
+Выполняется удаление службы LANShutdownerServer из системы...
+Служба LANShutdownerServer успешно удалена из системы.
+Попытка останова службы LANShutdownerServer.

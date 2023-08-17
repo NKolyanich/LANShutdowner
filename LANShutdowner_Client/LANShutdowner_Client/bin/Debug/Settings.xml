@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Port>4478</Port>
+  <RunAtStartup>false</RunAtStartup>
+  <ScanOnStartup>false</ScanOnStartup>
+  <AutoScan>false</AutoScan>
+  <AutoScanTime>0</AutoScanTime>
+  <Groups>
+    <Group>
+      <Name>2</Name>
+      <IPList />
+    </Group>
+    <Group>
+      <Name>Лаборатория</Name>
+      <IPList />
+    </Group>
+  </Groups>
+</Settings>

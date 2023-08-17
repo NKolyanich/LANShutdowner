@@ -1,0 +1,12 @@
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\bin\Debug\LANShutdownerServerViewer.exe.config
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\bin\Debug\LANShutdownerServerViewer.exe
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\bin\Debug\LANShutdownerServerViewer.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.AboutBox.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.ChangeSettingsServer.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.Properties.Resources.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.LANShutdownerServerViewer.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.csproj.GenerateResource.Cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.exe
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.csprojAssemblyReference.cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerServerViewer\obj\x86\Debug\LANShutdownerServerViewer.csproj.CoreCompileInputs.cache

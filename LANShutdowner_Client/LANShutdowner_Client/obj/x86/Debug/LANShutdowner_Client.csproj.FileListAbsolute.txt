@@ -1,0 +1,13 @@
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.csproj.GenerateResource.Cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\bin\Debug\LANShutdowner_Client.exe.config
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.Properties.Resources.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.AboutBox1.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.SettingsDialog_Form.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\bin\Debug\LANShutdowner_Client.exe
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\bin\Debug\LANShutdowner_Client.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.exe
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.csproj.CoreCompileInputs.cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.csprojAssemblyReference.cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.LANShutdowner_Client_Form.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Client\LANShutdowner_Client\obj\x86\Debug\LANShutdowner_Client.GroupNameInput.resources

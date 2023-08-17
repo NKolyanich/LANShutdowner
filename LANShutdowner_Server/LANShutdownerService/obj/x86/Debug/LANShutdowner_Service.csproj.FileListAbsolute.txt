@@ -1,0 +1,12 @@
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdownerServerDLL.dll
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdownerServerDLL.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdownerService.ProjectInstaller.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdownerService.LANShutdowner_Service.resources
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdowner_Service.csproj.GenerateResource.Cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.exe
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\bin\Debug\LANShutdowner_Service.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdowner_Service.exe
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdowner_Service.pdb
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdowner_Service.csproj.CoreCompileInputs.cache
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdowner_Service.csproj.CopyComplete
+D:\Metaler\Разработки\Программирование ПК\LANShutdowner\LANShutdowner_Server\LANShutdownerService\obj\x86\Debug\LANShutdowner_Service.csprojAssemblyReference.cache
